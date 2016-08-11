@@ -1,0 +1,1 @@
+I approached this problem thinking it as a normal number pyramid. But when Abien said that there is a computation in that particular program. I had a hard time thinking what is the logic of the program. So i simply display a number pyramid.

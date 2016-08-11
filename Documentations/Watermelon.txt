@@ -1,0 +1,1 @@
+In this program, I know that it will determine whether the inputted number is odd or even. So came up with a ternary condition to make my program short.

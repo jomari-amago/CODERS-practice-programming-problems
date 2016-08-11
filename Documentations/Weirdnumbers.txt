@@ -1,0 +1,1 @@
+At first I used if conditions, but the coders officers said that I coudld minimize the code by using the ternary conditionand combining the condition of weird number and not weird number.

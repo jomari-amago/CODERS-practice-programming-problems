@@ -1,0 +1,1 @@
+In this program, I didn't know where k is being being used in the computaion. I can't relate to the clue that Abien gave beacause I'm still not taking Numerical Analysis. :(

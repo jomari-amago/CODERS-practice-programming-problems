@@ -1,0 +1,1 @@
+In this program, I got te logic because it was indicated in the acm problem. The only problem was how will I code it. So I searched in the google how can i get the value of every single place of an input. Then I found the answer. All you have to do is divide the number by 10 and get the remainder.
